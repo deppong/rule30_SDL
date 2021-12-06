@@ -1,0 +1,1 @@
+# A cellular automata simulator written in C/SDL
